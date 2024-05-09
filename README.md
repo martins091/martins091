@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science and AI engineering**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-iota-flame.vercel.app/](https://my-portfolio-website-iota-flame.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://porfolio-ten-cyan.vercel.app/)
 
 - 📝 I regularly write articles on [https://mern-blog-rja7.onrender.com/](https://mern-blog-rja7.onrender.com/)
 
