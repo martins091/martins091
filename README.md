@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **agbomartinsejifor@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1E8cUPuxlmkZokiAQzrs_frB3_hv0o1dQ/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y4BtYWGMhu-RpOUJI6coBc0M1PjgXzlO/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
